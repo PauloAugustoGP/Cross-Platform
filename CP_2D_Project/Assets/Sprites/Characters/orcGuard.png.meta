@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 23410bf8f4b6aa146a8703713eb9c387
+timeCreated: 1494708394
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orcGuard_0
+    21300002: orcGuard_1
+    21300004: orcGuard_2
+    21300006: orcGuard_3
+    21300008: orcGuard_4
+    21300010: orcGuard_5
+    21300012: orcGuard_6
+    21300014: orcGuard_7
+    21300016: orcGuard_8
+    21300018: orcGuard_9
+    21300020: orcGuard_10
+    21300022: orcGuard_11
+    21300024: orcGuard_12
+    21300026: orcGuard_14
+    21300028: orcGuard_15
+    21300030: orcGuard_16
+    21300032: orcGuard_17
+    21300034: orcGuard_18
+    21300036: orcGuard_19
+    21300038: orcGuard_28
+    21300040: orcGuard_21
+    21300042: orcGuard_22
+    21300044: orcGuard_23
+    21300046: orcGuard_24
+    21300048: orcGuard_25
+    21300050: orcGuard_26
+    21300052: orcGuard_27
+    21300054: orcGuard_29
+    21300056: orcGuard_30
+    21300058: orcGuard_31
+    21300060: orcGuard_32
+    21300062: orcGuard_33
+    21300064: orcGuard_34
+    21300066: orcGuard_35
+    21300068: orcGuard_36
+    21300070: orcGuard_38
+    21300072: orcGuard_39
+    21300074: orcGuard_40
+    21300076: orcGuard_41
+    21300078: orcGuard_42
+    21300080: orcGuard_46
+    21300082: orcGuard_47
+    21300084: orcGuard_48
+    21300086: orcGuard_49
+    21300088: orcGuard_50
+    21300090: orcGuard_51
+    21300092: orcGuard_52
+    21300094: orcGuard_53
+    21300096: orcGuard_54
+    21300098: orcGuard_55
+    21300100: orcGuard_112
+    21300102: orcGuard_56
+    21300104: orcGuard_37
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orcGuard_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2295
+        width: 65
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2294
+        width: 68
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2294
+        width: 75
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2294
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2294
+        width: 75
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2294
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_6
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2294
+        width: 75
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2294
+        width: 69
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2170
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1885
+        width: 87
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1891
+        width: 82
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1890
+        width: 81
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1889
+        width: 87
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_18
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1888
+        width: 88
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_19
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1888
+        width: 83
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_28
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1943
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1690
+        width: 86
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1692
+        width: 95
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1690
+        width: 95
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1688
+        width: 85
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1690
+        width: 90
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_26
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1688
+        width: 86
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_27
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1692
+        width: 86
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1473
+        width: 62
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1473
+        width: 64
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1475
+        width: 94
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1475
+        width: 95
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1477
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1477
+        width: 72
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_35
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1482
+        width: 98
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_36
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1482
+        width: 99
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1265
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1265
+        width: 81
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1271
+        width: 67
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1272
+        width: 67
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_42
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1272
+        width: 63
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1080
+        width: 83
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1080
+        width: 84
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_48
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1080
+        width: 84
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_49
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1079
+        width: 84
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_50
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1079
+        width: 83
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_51
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1079
+        width: 83
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 887
+        width: 85
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 887
+        width: 71
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 888
+        width: 67
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_55
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 888
+        width: 68
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 1055
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_56
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1328
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orcGuard_37
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1442
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

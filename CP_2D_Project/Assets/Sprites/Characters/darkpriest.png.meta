@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 6afbed6d3c1643b4bbee40c97ee28a7f
+timeCreated: 1494941144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: darkpriest_0
+    21300002: darkpriest_1
+    21300004: darkpriest_2
+    21300006: darkpriest_3
+    21300008: darkpriest_4
+    21300010: darkpriest_5
+    21300012: darkpriest_14
+    21300014: darkpriest_15
+    21300016: darkpriest_16
+    21300018: darkpriest_17
+    21300020: darkpriest_18
+    21300022: darkpriest_19
+    21300024: darkpriest_21
+    21300026: darkpriest_22
+    21300028: darkpriest_23
+    21300030: darkpriest_24
+    21300032: darkpriest_25
+    21300034: darkpriest_26
+    21300036: darkpriest_27
+    21300038: darkpriest_28
+    21300040: darkpriest_31
+    21300042: darkpriest_32
+    21300044: darkpriest_38
+    21300046: darkpriest_39
+    21300048: darkpriest_33
+    21300050: darkpriest_34
+    21300052: darkpriest_35
+    21300054: darkpriest_36
+    21300056: darkpriest_37
+    21300058: darkpriest_43
+    21300060: darkpriest_44
+    21300062: darkpriest_45
+    21300064: darkpriest_46
+    21300066: darkpriest_47
+    21300068: darkpriest_48
+    21300070: darkpriest_49
+    21300072: darkpriest_50
+    21300074: darkpriest_58
+    21300076: darkpriest_59
+    21300078: darkpriest_60
+    21300080: darkpriest_61
+    21300082: darkpriest_62
+    21300084: darkpriest_63
+    21300086: darkpriest_64
+    21300088: darkpriest_65
+    21300090: darkpriest_20
+    21300092: darkpriest_66
+    21300094: darkpriest_67
+    21300096: darkpriest_68
+    21300098: darkpriest_69
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkpriest_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 634
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 633
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 630
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 630
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 630
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 630
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 507
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 507
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 507
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 507
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 507
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 508
+        width: 41
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 378
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 378
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 378
+        width: 35
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 376
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 376
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 376
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 376
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 376
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 255
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 254
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_38
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 255
+        width: 35
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_39
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 348
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 255
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 255
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 255
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 255
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 127
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_46
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 127
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 127
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 127
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_49
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 127
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_50
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 127
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 35
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 9
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_60
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 10
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_61
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 9
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_62
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_63
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 9
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_64
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 9
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_65
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 10
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 622
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_66
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 109
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_67
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 640
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_68
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 640
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: darkpriest_69
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 489
+        width: 120
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
