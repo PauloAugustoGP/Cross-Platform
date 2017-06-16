@@ -17,14 +17,41 @@ Platform assembly: C:\Users\Paulo\Desktop\TFS\2 Term\Cross-Plataform\CP_2D_Proje
 Loading C:\Users\Paulo\Desktop\TFS\2 Term\Cross-Plataform\CP_2D_Project\Builds\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Paulo\Desktop\TFS\2 Term\Cross-Plataform\CP_2D_Project\Builds\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Paulo\Desktop\TFS\2 Term\Cross-Plataform\CP_2D_Project\Builds\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.044 seconds
+- Completed reload, in  0.062 seconds
 Platform assembly: C:\Users\Paulo\Desktop\TFS\2 Term\Cross-Plataform\CP_2D_Project\Builds\Game_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Paulo\Desktop\TFS\2 Term\Cross-Plataform\CP_2D_Project\Builds\Game_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.668549 ms
+UnloadTime: 3.993415 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.731841 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 2.302479 ms (FindLiveObjects: 0.071417 ms CreateObjectMapping: 0.054739 ms MarkObjects: 0.623944 ms  DeleteObjects: 1.550666 ms)
+
+ASYNC LOAD STARTED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.138688 ms
+IsolatedStorageException: Could not find a part of the path "C:\Users\Paulo\Desktop\TFS\2 Term\Cross-Plataform\CP_2D_Project\Builds\Assets\Files\area13.dat".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at BoardManager.ReadFile (System.String filename, Int32 area) [0x00000] in <filename unknown>:0 
+  at BoardManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 6307.
+Total: 38.938156 ms (FindLiveObjects: 0.448179 ms CreateObjectMapping: 0.943400 ms MarkObjects: 32.432285 ms  DeleteObjects: 5.113436 ms)
+
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2f24 -> priority: 1 
-  Thread -> id: 245c -> priority: 1 
+  Thread -> id: 1d20 -> priority: 1 
+  Thread -> id: 2394 -> priority: 1 

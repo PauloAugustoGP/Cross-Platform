@@ -8,6 +8,7 @@ public class MenuManager : MonoBehaviour
 {
     public GameObject main;
     public GameObject credits;
+    public GameObject instruction;
     public Image fade;
 
     private float timeFade;
@@ -38,9 +39,16 @@ public class MenuManager : MonoBehaviour
         credits.SetActive(true);
     }
 
+    public void GoToInstructions()
+    {
+        main.SetActive(false);
+        instruction.SetActive(true);
+    }
+
     public void GoToMain()
     {
         credits.SetActive(false);
+        instruction.SetActive(false);
         main.SetActive(true);
     }
 

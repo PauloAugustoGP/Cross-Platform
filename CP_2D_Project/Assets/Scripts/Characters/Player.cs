@@ -28,6 +28,9 @@ public class Player : MonoBehaviour
     [SerializeField]private GameObject critDamage;
     [SerializeField]private GameObject normalDamage;
 
+    [SerializeField]private List<AudioClip> sounds;
+    AudioSource source;
+
     public bool dead;
     private bool attacking = false;
     private float attackRate = 0;
@@ -37,6 +40,7 @@ public class Player : MonoBehaviour
     private float speed_Y;
 
     private float restTime;
+    private float recoverTime;
 
     private Animator anim;
 
@@ -72,6 +76,7 @@ public class Player : MonoBehaviour
         damage = items[0].GetComponent<Item>().damage + str;
 
         anim = GetComponent<Animator>();
+        source = GetComponent<AudioSource>();
 	}
 	
 	void Update ()
@@ -116,6 +121,9 @@ public class Player : MonoBehaviour
                         if (position.y > transform.position.y) currentPosition = (int)directions.Attack_UpLeft;
                         else currentPosition = (int)directions.Attack_DownLeft;
                     }
+
+                    source.clip = sounds[0];
+                    source.Play();
                 }
             }
         }
@@ -134,6 +142,20 @@ public class Player : MonoBehaviour
 
         if(restTime >= 30)
             currentPosition = (int)directions.Rest;
+
+        if (currentPosition == 1)
+        {
+            recoverTime += Time.deltaTime;
+            if (recoverTime >= 1.5f)
+            {
+                if (health != maxHealth) health += 5;
+
+                if (health > maxHealth) health = maxHealth;
+
+                recoverTime = 0;
+            }
+        }
+            
 
         MovePlayer();
     }
@@ -263,6 +285,12 @@ public class Player : MonoBehaviour
 
         if (health - status < 0)
         {
+            if(!dead)
+            {
+                source.clip = sounds[1];
+                source.Play();
+            }
+
             health = 0;
             currentPosition = (int)directions.Die;
             anim.SetInteger("state", currentPosition);
